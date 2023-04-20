@@ -1,2 +1,2 @@
 # Data-Analysis
-It is about sample projects of Data Analysis industry training program which I have supervised and guided as a mentor to Bachelor and Mater students
+I would like to present the projects that I have completed either individually, as part of a team, or those I have supervised and guided as a mentor to students. We will be discussing the fundamental stages of data analysis over the course of 4 weeks. Let me extend my gratitude to the diligent and innovative reports submitted by the bright students in our class, who hail from esteemed international universities and have dedicated 5 hours each week to completing the program and their reports.
